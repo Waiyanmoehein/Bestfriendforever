@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270157428796",
+    "firebase_url": "https://bestfriendforever-c5ea7.firebaseio.com",
+    "project_id": "bestfriendforever-c5ea7",
+    "storage_bucket": "bestfriendforever-c5ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270157428796:android:55a24d37bed1dce7996b39",
+        "android_client_info": {
+          "package_name": "com.example.bestfriendforever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270157428796-3blsfo4d48m50p323nceo7ijavd7mr5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpLniFRXNsd_ZpKacE_cCnPPVykPHTdjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270157428796-3blsfo4d48m50p323nceo7ijavd7mr5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
